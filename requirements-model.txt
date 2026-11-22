@@ -1,0 +1,6 @@
+# Optional: only needed if you want to rerun the model-building notebook.
+-r requirements.txt
+scikit-learn>=1.3,<2
+nltk>=3.8,<4
+jupyter>=1.0,<2
+ipykernel>=6.0,<7
